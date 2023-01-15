@@ -1,0 +1,9 @@
+Category Price(Rs)
+fiction 220
+science 120
+encyclopedia 221
+documentry 160
+// urdu_poetry 130
+poetry 130
+technology 80
+religious 80
